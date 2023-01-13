@@ -1,6 +1,6 @@
 # Town
 
-This is the organisation for a gamed called *Town*.
+This is the organisation for a game called *Town*.
 It's a social deduction game similar to Mafia or Werewolves.
 15 townies start in a town with a group of evil people known as the mafia.
 Nobody knows who is part of the mafia, except for the mafia themselves.
